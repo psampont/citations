@@ -4,7 +4,7 @@ var cacheName = 'citations-v1';
 
 var appShellFiles = [
   '/citations/',
-  '/lab/citations/index.html',
+  '/citations/index.html',
   '/citations/data.js',
   '/citations/app.js',
   '/citations/images/logo-64.png',

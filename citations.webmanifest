@@ -7,7 +7,12 @@
                 "src": "images/logo-128.png",
                 "sizes": "128×128",
                 "type": "image/png"
-            },
+           },
+           {
+                "src": "images/logo-256.png",
+                "sizes": "256×256",
+                "type": "image/png"
+           },
            {
                 "src": "images/logo-64.png",
                 "sizes": "64×64",

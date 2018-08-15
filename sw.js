@@ -3,13 +3,13 @@
 var cacheName = 'citations-v1';
 
 var appShellFiles = [
-  '/citations/',
-  '/citations/index.html',
-  '/citations/data.js',
-  '/citations/app.js',
-  '/citations/images/logo-64.png',
-  '/citations/images/logo-128.png',
-  '/citations/main.css'
+  '/~philippes/lab/citations/',
+  '/~philippes/lab/citations/index.html',
+  '/~philippes/lab/citations/data.js',
+  '/~philippes/lab/citations/app.js',
+  '/~philippes/lab/citations/images/logo-64.png',
+  '/~philippes/lab/citations/images/logo-128.png',
+  '/~philippes/lab/citations/main.css'
 ];
 
 self.importScripts('data.js');

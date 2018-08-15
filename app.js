@@ -11,4 +11,3 @@ content = citations[i].text_fr;
 
 document.getElementById('content').innerHTML = content;
 
-console.log("Start")

@@ -10,5 +10,17 @@ var citations = [
   {
     text_fr : "C'est dans l'effort que l'on trouve la satisfaction et non dans la réussite. Un plein effort est une pleine victoire.",
     author : "Gandhi"
+  },
+  {
+    text_fr : "Un pas à la fois me suffit.",
+    author : "Gandhi"
+  },
+  {
+    text_fr : "Il vaut mieux mettre son coeur dans la prière sans trouver de paroles que trouver des mots sans y mettre son coeur.",
+    author : "Gandhi"
+  },
+  {
+    text_fr : "Lorsque nous critiquons, il faut le faire avec une humilité et une courtoisie qui ne laisse subsister aucune amertume.",
+    author : "Gandhi"
   }
 ];

@@ -1,0 +1,21 @@
+{
+     "name": "Citations of the day",
+     "short_name": "Citations",
+     "icons": [
+           {
+                "src": "images/logo-128.png",
+                "sizes": "128×128",
+                "type": "image/png"
+            },
+           {
+                "src": "images/logo-64.png",
+                "sizes": "64×64",
+                "type": "image/png"
+           }
+     ],
+     "start_url": "index.html",
+     "display": "standalone",
+     "background_color": "#FFFFFF",
+     "theme_color": "#92d615",
+     "description": "Each day a citation",
+}

@@ -5,6 +5,10 @@ if ('serviceWorker' in navigator) {
 var content = '';
 
 i = Math.round(Math.random() * (citations.length - 1));
+
 content = citations[i].text_fr;
-document.getElementById('content').innerHTML = content;
+document.getElementById('content').innerHTML = '« ' + content + ' »';
+
+author = citations[i].author;
+document.getElementById('author').innerHTML = author;
 

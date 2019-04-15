@@ -1,5 +1,9 @@
 var citations = [
   { 
+    text_fr : "La joie de regarder et de comprendre est le plus beau cadeau de la nature."
+    author : "Albert Einstein"
+  }
+  { 
     text_fr : "Vous devez être le changement que vous voulez voir dans ce monde.",
     author : "Gandhi"
   },

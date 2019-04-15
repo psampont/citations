@@ -4,10 +4,7 @@ if ('serviceWorker' in navigator) {
 
 var content = '';
 
-count = citations.length;
-i = Math.round(Math.random()) * (count - 1);
-
+i = Math.round(Math.random() * (citations.length - 1));
 content = citations[i].text_fr;
-
 document.getElementById('content').innerHTML = content;
 

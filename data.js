@@ -1,6 +1,6 @@
 var citations = [
   { 
-    text_fr : "La joie de regarder et de comprendre est le plus beau cadeau de la nature."
+    text_fr : "La joie de regarder et de comprendre est le plus beau cadeau de la nature.",
     author : "Albert Einstein"
   }
   { 

@@ -4,6 +4,10 @@ var citations = [
     author : "Albert Einstein"
   },
   { 
+    text_fr : "Un problème sans solution est un problème mal posé.",
+    author : "Albert Einstein"
+  },
+  { 
     text_fr : "Vous devez être le changement que vous voulez voir dans ce monde.",
     author : "Gandhi"
   },

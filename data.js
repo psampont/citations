@@ -24,11 +24,20 @@ var citations = [
     author : "Gandhi"
   },
   {
-    text_fr : "Il vaut mieux mettre son coeur dans la prière sans trouver de paroles que trouver des mots sans y mettre son coeur.",
+    text_fr : "Il vaut mieux mettre son cœur dans la prière sans trouver de paroles que trouver des mots sans y mettre son cœur.",
     author : "Gandhi"
   },
   {
     text_fr : "Lorsque nous critiquons, il faut le faire avec une humilité et une courtoisie qui ne laisse subsister aucune amertume.",
     author : "Gandhi"
+  },
+  {
+    text_fr : "Le premier ennemi de la connaissance n’est pas l’ignorance, c’est l’illusion de la connaissance.",
+    author : "Stephen Hawking"
+  },
+  {
+    text_fr : "La chose la plus incompréhensible de l'Univers, c'est qu'il soit compréhensible.",
+    author : "Stephen Hawking",
+    reference : "Y a-t-il un grand architecte dans l'univers ?, Stephen Hawking et Léonard Mlodinow, éd. Odile Jacob, coll. « Poches : sciences », 2014  (ISBN 978-2-7381-3196-6), p. 107"
   }
 ];

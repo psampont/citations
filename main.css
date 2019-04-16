@@ -9,6 +9,9 @@ h1 {
   color: white;
 }
 
-quote {
-  font-style: italic;
+q {
+}
+
+cite {
+  font-size: 0.7em;
 }

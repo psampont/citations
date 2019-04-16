@@ -10,8 +10,20 @@ h1 {
 }
 
 q {
+  text-align: center;
+  display: block;
+  zcolor: red;
+}
+q:before {
+  content: "\00AB  ";
+}
+
+q:after {
+  content: " \00BB";
 }
 
 cite {
   font-size: 0.7em;
+  text-align: center;
+  display: block;
 }

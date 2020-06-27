@@ -27,3 +27,9 @@ cite {
   text-align: center;
   display: block;
 }
+
+main {
+  position: fixed;
+  top: 50vh;
+  transform: translateY(-50%);
+}

@@ -40,4 +40,13 @@ const citations = [
     author: 'Stephen Hawking',
     reference: 'Y a-t-il un grand architecte dans l\'univers ?, Stephen Hawking et Léonard Mlodinow, éd. Odile Jacob, coll. « Poches : sciences », 2014  (ISBN 978-2-7381-3196-6), p. 107',
   },
+  {
+    text_fr: "Ce qui m'intéresse, ce n'est pas le bonheur de tous les hommes c'est celui de chacun.",
+    author: 'Boris Vian',
+    reference: "L'Écume des jours",
+  },
+  {
+    text_fr: "L'univers est plein de choses magiques qui attendent patiemment que nous soyons assez intelligents pour les percevoir",
+    author: 'Eden Philpotts',
+  },
 ];

@@ -8,8 +8,11 @@ const appShellFiles = [
   '/citations/data.js',
   '/citations/app.js',
   '/citations/cookies.js',
+  '/citations/images/logo.png',
   '/citations/images/logo-64.png',
   '/citations/images/logo-128.png',
+  '/citations/images/logo-256.png',
+  '/citations/images/pexels-photo-37728.webp',
   '/citations/main.css',
 ];
 

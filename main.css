@@ -2,7 +2,7 @@ html {
   font-size: 20px;
   background-color: lightblue;
   color: black;
-  background-image: url(images/pexels-photo-37728.webp);
+  background: url(images/pexels-photo-37728.webp) no-repeat fixed;
   background-size: cover;
 }
 

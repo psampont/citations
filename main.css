@@ -2,6 +2,8 @@ html {
   font-size: 20px;
   background-color: lightblue;
   color: black;
+  background-image: url(images/pexels-photo-37728.webp);
+  background-size: cover;
 }
 
 h1 {

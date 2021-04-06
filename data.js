@@ -49,4 +49,8 @@ const citations = [
     text_fr: "L'univers est plein de choses magiques qui attendent patiemment que nous soyons assez intelligents pour les percevoir",
     author: 'Eden Philpotts',
   },
+  {
+    text_fr: "La perfection est atteinte, non pas lorsqu'il n'y a plus rien à ajouter, mais lorsqu'il n'y a plus rien à retirer.",
+    author: "Antoine de Saint-Exupéry",
+  },
 ];

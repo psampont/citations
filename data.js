@@ -53,4 +53,10 @@ const citations = [
     text_fr: "La perfection est atteinte, non pas lorsqu'il n'y a plus rien à ajouter, mais lorsqu'il n'y a plus rien à retirer.",
     author: "Antoine de Saint-Exupéry",
   },
+    {
+    text_fr: "La seule chose qu'on est sûr de ne pas réussir est celle qu'on ne tente pas."
+    author: "Paul-Emile Victor"
+    reference: "Dialogues à une voix"
+  },
+
 ];

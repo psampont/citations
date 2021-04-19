@@ -34,5 +34,6 @@ main {
   position: fixed;
   top: 50vh;
   transform: translateY(-50%);
-  width: 100%;
+  width: 98%;
+  padding: 5px;
 }

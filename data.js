@@ -54,9 +54,9 @@ const citations = [
     author: "Antoine de Saint-Exupéry",
   },
     {
-    text_fr: "La seule chose qu'on est sûr de ne pas réussir est celle qu'on ne tente pas."
-    author: "Paul-Emile Victor"
-    reference: "Dialogues à une voix"
+    text_fr: "La seule chose qu'on est sûr de ne pas réussir est celle qu'on ne tente pas.",
+    author: "Paul-Emile Victor",
+    reference: "Dialogues à une voix",
   },
 
 ];
